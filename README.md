@@ -14,7 +14,7 @@
 <h3 align="center">Winner @SIH 2023 🏆🥇 || Student || EE'25 || Electrical Engineering</h3>
 
 
-<img align="right" alt="Arindam Das" width="300" src="img/arindam.jpg"> 
+<img align="right" alt="Arindam Das" width="300" src="img/arindam00.jpg"> 
 <br>&nbsp;
  
 <br>
