@@ -36,7 +36,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-<a href=" https://x.com/Arindam70263491" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952725-11bc27a9-cac1-4439-b129-62f51fe3fa72.png" alt="akashdipaot2001" height="40" width="40" /></a>
+<a href="https://x.com/Arindam70263491" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952725-11bc27a9-cac1-4439-b129-62f51fe3fa72.png" alt="akashdipaot2001" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/arindam-das-406a36200" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952833-314ab313-7120-4755-b65c-b573098387b3.png" alt="akashdip-mahapatra-330687204" height="40" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028182382567" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952901-f366a196-d5bb-4c39-901e-7fc276088b92.png" alt="facebook" height="40" width="40" /></a>
 <a href="https://www.instagram.com/iamarindam4208" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952945-2d0baca9-a03a-4a23-b7ea-b8bea3e7bc7f.png" alt="insta" height="40" width="40" /></a>
