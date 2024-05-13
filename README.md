@@ -14,24 +14,24 @@
 <h3 align="center">Winner @SIH 2023 🏆🥇 || Student || EE'25 || Electrical Engineering</h3>
 
 
-<img align="right" alt="akashdip mahapatra" width="300" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/3304657iA60B6CA715E3975F/image-size/large/is-moderation-mode/true?v=v2&px=999"> 
+<img align="right" alt="Arindam Das" width="300" src="img/arindam.jpg"> 
 <br>&nbsp;
  
 <br>
 
-- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Hacking**
+- 🌱 I’m currently learning **Web Dev.** & **AI-Ml**
 
-- 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/akashdip-mahapatra-330687204/)
+- 👨‍💻 All of my projects are available at [my **Linkedin**](https://www.linkedin.com/in/arindam-das-406a36200)
 
-- 💬 **expert in Kali-linux, Love Drawings , extra knowledge - SolidWorks,AutoCAD,FreeCAD,GIMP,Shotcut video editor**
+<!-- - 💬 **expert in Kali-linux, Love Drawings , extra knowledge - SolidWorks,AutoCAD,FreeCAD,GIMP,Shotcut video editor** -->
 
-- 📫 How to reach me **akashdipmahapatra2001@gmail.com**
+- 📫 How to reach me **arindamdasd192015590@gmail.com**
 
-- 📄 resume `B.Tech 1st Year` [click](https://akashdip2001.github.io/CV-1/)
+<!-- - 📄 resume `B.Tech 1st Year` [click](https://akashdip2001.github.io/CV-1/)-->
 
-- ⚡ Fun fact **E=mc^2**
+- ⚡ Fun fact ****
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
