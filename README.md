@@ -33,7 +33,7 @@
 
 - ⚡ Fun fact 
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://x.com/Arindam70263491" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952725-11bc27a9-cac1-4439-b129-62f51fe3fa72.png" alt="akashdipaot2001" height="40" width="40" /></a>
