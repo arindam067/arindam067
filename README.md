@@ -31,7 +31,7 @@
 
 <!-- - 📄 resume `B.Tech 1st Year` [click](https://akashdip2001.github.io/CV-1/)-->
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
